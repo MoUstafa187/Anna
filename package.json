@@ -1,0 +1,10 @@
+{
+  "name": "mamis-world",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A little interactive world made for Mami",
+  "scripts": {
+    "start": "node server.js",
+    "build": "node build.js"
+  }
+}
